@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @nicothnr
-- 👀 I’m interested in how data-driven decision making can facilitate developing and growing innovative businesses as well as how data and predictive analytics can be used ofr strategy development. 
-- 🌱 I’m currently exploring causal inference
-- 💞️ I’m looking to collaborate on projects using machine learning models to measure, evaluate or develop entrepreneurial strategies
+- 👀 I’m interested in data-driven decision making and causal inference
 - 📫 How to reach me: https://www.linkedin.com/in/nicothanner/
 
 <!---
